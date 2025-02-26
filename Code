@@ -1,4 +1,4 @@
-#R version 4.3.1
+#R version 4.3.1.
 #Load VQI AMP data (available with approval through SVS PSO https://www.vqi.org/data-analysis/)
 library(readr)
 data <- read_csv("amp_data.csv")
